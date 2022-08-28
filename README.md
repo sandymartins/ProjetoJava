@@ -1,4 +1,9 @@
+<div align="center">                                                       
 🚀  PROJETO GYM SYSTEM  🚀
+<div/>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/52469840/187097383-d8d6487a-3be9-4f57-b5ce-16f93660bffc.jpg" width="500px";>
+<div/>
 
 O presente projeto foi desenvolvido como parte da conclusão do bloco I do bootcamp da [Generation](https://brazil.generation.org/ ).
 
@@ -12,7 +17,12 @@ Nosso programa pode ser executado no Eclipse IDE, na região do console.
 🛠️ Construído com:
 - Java SE 17.0.4 
 
-<img scr="https://www.canva.com/design/DAFJb8FUp80/VrqzhVG6aIHnALRp7tpQGw/edit#1"/>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/52469840/187097217-1deba91c-e415-4295-9f22-afb3f570a92b.png" width="500px";>
+<div/>
+
+
 
 ## Linguagem:
 
